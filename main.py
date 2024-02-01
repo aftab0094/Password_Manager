@@ -242,6 +242,6 @@ try:
 except FileNotFoundError:
     try:
         run_pass_gen()
-    except ValueError or TypeError:
+    except KeyboardInterrupt or TypeError:
         clear_screen()
         print("See you again!")
