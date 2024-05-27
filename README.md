@@ -1,10 +1,10 @@
 # Password Manager made with python only
 
-I Have Created this simple password manager using python not that good but as a project this means a lot to me.
+I Have Created this simple password manager using python, not that good but as a project this means a lot to me.
 
 ## Installation
 
-Use git to install to install my project.
+Use git to install my project.
 
 ```bash
 git clone https://github.com/aftab0094/Password_Manager.git
